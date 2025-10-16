@@ -1,0 +1,936 @@
+2025-09-28T00:00:43+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T00:23:13+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T00:38:57+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T00:39:06+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T00:45:43+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T01:13:45+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T03:38:57+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T10:22:09+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T10:46:41+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T10:46:44+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T10:46:45+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T10:46:47+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T10:51:52+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T11:50:02+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T12:16:58+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T12:16:59+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T12:19:01+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T12:35:08+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T12:36:09+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T12:39:30+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T12:39:31+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T12:40:35+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T12:46:40+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T12:48:41+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T13:11:10+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T13:11:11+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T13:22:10+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T13:52:11+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T14:08:20+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T14:22:10+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T14:52:10+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T15:20:13+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T15:20:23+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T15:20:33+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T15:20:43+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T15:26:12+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T15:32:12+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T15:38:12+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T15:44:13+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T16:08:09+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T16:08:19+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T16:50:12+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T16:50:22+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T17:10:48+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T17:16:48+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T18:16:48+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T18:20:12+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T19:27:14+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T19:39:01+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T19:45:14+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T20:04:48+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
+2025-09-28T20:40:48+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php:3
+Stack trace:
+#0 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/Controller.php(18): include()
+#1 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(103): Building\Controllers\Controller->render()
+#2 /home/muneerjohosting/public_html/wp-content/plugins/building-search/controllers/BuildingController.php(18): Building\Controllers\BuildingController->buildingsResult()
+#3 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(393): Building\Controllers\BuildingController->Building\Controllers\{closure}()
+#4 [internal function]: do_shortcode_tag()
+#5 /home/muneerjohosting/public_html/wp-includes/shortcodes.php(265): preg_replace_callback()
+#6 /home/muneerjohosting/public_html/wp-content/themes/flatsome-child/woocommerce/layouts/category.php(4): do_shortcode()
+#7 /home/muneerjohosting/public_html/wp-includes/template.php(785): require('/home/muneerjoh...')
+#8 /home/muneerjohosting/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#9 /home/muneerjohosting/public_html/wp-content/themes/flatsome/woocommerce/archive-product.php(27): wc_get_template_part()
+#10 /home/muneerjohosting/public_html/wp-includes/template-loader.php(106): include('/home/muneerjoh...')
+#11 /home/muneerjohosting/public_html/wp-blog-header.php(19): require_once('/home/muneerjoh...')
+#12 /home/muneerjohosting/public_html/index.php(17): require('/home/muneerjoh...')
+#13 {main}
+  thrown in /home/muneerjohosting/public_html/wp-content/plugins/building-search/views/building-result.php on line 3
+
