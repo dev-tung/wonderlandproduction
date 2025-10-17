@@ -20,15 +20,15 @@
 
 // ** Thiết lập MySQL - Bạn có thể lấy các thông tin này từ host/server ** //
 /** Tên database MySQL */
-define('DB_NAME', "muneerjohosting_wonderland");
+define('DB_NAME', "wonderlandproduction");
 
 
 /** Username của database */
-define('DB_USER', "muneerjohosting_wonderland");
+define('DB_USER', "root");
 
 
 /** Mật khẩu của database */
-define('DB_PASSWORD', "yk%eg2^VR&8`[zw");
+define('DB_PASSWORD', "");
 
 
 /** Hostname của database */
